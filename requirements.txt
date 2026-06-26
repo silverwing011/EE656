@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+facenet-pytorch
+opencv-python
+pillow
+scikit-learn
+numpy
+tqdm
+matplotlib
